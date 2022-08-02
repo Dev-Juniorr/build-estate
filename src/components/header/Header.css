@@ -62,9 +62,9 @@ header {
 }
 
 .nav_icon {
-    display: none;
-    font-size: 50px;
-    text-align: center;
+  display: none;
+  font-size: 50px;
+  text-align: center;
 }
 
 .logo {
@@ -127,5 +127,5 @@ header {
     display: block;
     font-size: 50px;
     text-align: center;
-}
+  }
 }
